@@ -31,14 +31,15 @@ This is a work-in-progress project and will be updated as new features and impro
 
 ---
 
+```
 ## 📁 Project Structure
 
 PersonalExpenseTracker/
 ├── Main.java            #Main program entry point and application logic
 ├── User.java            #Defines the User object (account details)
 ├── Expenses.java        #Defines the Expense object (individual spending records)
-└── .idea/               #IntelliJ project files (if using IntelliJ)
-
+└── .idea/               #IntelliJ project files 
+```
 
 ---
 
@@ -46,7 +47,7 @@ PersonalExpenseTracker/
 
 1.  **Clone this repo:**
     ```bash
-    git clone [https://github.com/JayMiller08/YourRepositoryName.git](https://github.com/JayMiller08/Expense-Tracker.git)
+    git clone [https://github.com/JayMiller08/Expense-Tracker.git](https://github.com/JayMiller08/Expense-Tracker.git)
     cd Expense-Tracker
     ```
     (Replace `Expense-Tracker` with the actual name of your repository)
